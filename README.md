@@ -11,4 +11,4 @@ The code first calculates size dependent dielectric functions. Then analytical M
 
 You can contact me from refetali@gmail.com
 
-In case of use, please cite the article as:, Daytime radiative cooling with silica fiber network, ACS Photonics, Refet Ali Yalçın, Etienne Blandre, Karl Joulain, Jeremie Drevillon, https://doi.org/10.1021/acsphotonics.0c00513
+In case of use, please cite the article as:, Colored Radiative Cooling Coatings with Nanoparticles, ACS Photonics, Refet Ali Yalçın, Etienne Blandre, Karl Joulain, Jeremie Drevillon, https://doi.org/10.1021/acsphotonics.0c00513
