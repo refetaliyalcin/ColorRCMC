@@ -3,6 +3,9 @@ Solution of Radiative Transfer Equation in a silica medium with spherical plain 
 
 Works on GPU with MATLAB
 
+For a more general version of the code that works on CPU check:
+https://github.com/refetaliyalcin/monte-carlo-mie-scattering
+
 Execute main_core_shell_core_shell_mix.m to run the code for core-shell core-shell particle mix.
 Execute main_core_shell_core_shell_mix.m to run the code for core-shell plain particle mix.
 To consider single type of particle rather than a mixture, set volume fraction of 2nd type to 0.
